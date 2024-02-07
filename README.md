@@ -4,8 +4,8 @@
   
 
 ### <div align="center">¡Hola, soy Facundo Sanchez!
-Acerca de mí
-¡Hola! Soy un apasionado desarrollador full stack junior con sede en Argentina. Constantemente busco expandir mis conocimientos y mejorar mis habilidades en el mundo del desarrollo web.
+
+Un apasionado desarrollador full stack junior con sede en Argentina. Constantemente busco expandir mis conocimientos y mejorar mis habilidades en el mundo del desarrollo web.
 
 Habilidades
 Desarrollo Frontend: Tengo experiencia trabajando con HTML, CSS y JavaScript para crear interfaces de usuario interactivas y atractivas.
