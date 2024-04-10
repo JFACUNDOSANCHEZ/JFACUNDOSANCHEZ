@@ -15,7 +15,7 @@ Colaboración en Equipo: He tenido la oportunidad de colaborar en proyectos de e
 
 Si estás interesado en colaborar en un proyecto o simplemente quieres charlar sobre desarrollo web, ¡no dudes en contactarme!
 
-Correo Electrónico: facusanchz@email.com
+Correo Electrónico: facusanchz96@email.com
 
   
   
